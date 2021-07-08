@@ -1,4 +1,4 @@
-# 📌 2020 1st Capstone-Design
+# 📌 2020-1 Capstone-Design
 
 <img src="https://user-images.githubusercontent.com/44025989/124957325-eb542600-e053-11eb-8869-6911a1ad9e1b.png" width="30%" height="20%" title="Petcare" alt="Petcare"></img>
 
