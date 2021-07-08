@@ -1,6 +1,6 @@
 # 2020 1st Capstone-Design
 
-<img src="https://github.com/luckyboxx/DKU-Team-Project/blob/master/Capstone%20Design/2020%EB%85%84%201%ED%95%99%EA%B8%B0/PetCare_Android/caps_project1/app/src/main/res/drawable/main_logo2.png?raw=true" width="30%" height="20%" title="Petcare" alt="Petcare"></img>
+<img src="https://user-images.githubusercontent.com/44025989/124957325-eb542600-e053-11eb-8869-6911a1ad9e1b.png" width="30%" height="20%" title="Petcare" alt="Petcare"></img>
 
 ## Organization
 
@@ -31,4 +31,3 @@
 
 ## UI
 <img src="https://user-images.githubusercontent.com/44025989/98001060-8bf0a700-1e30-11eb-869b-92aa2bf110e3.png" title="UI Image" alt="UI Image"></img>
-# PetCare_Android
